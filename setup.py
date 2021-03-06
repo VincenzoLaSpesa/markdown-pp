@@ -12,10 +12,10 @@ if path.isfile('README.md'):
 setup(
     name='MarkdownPP',
     description='Markdown preprocessor',
-    version='1.5.1',
-    author='John Reese',
-    author_email='john@noswap.com',
-    url='https://github.com/jreese/markdown-pp',
+    version='1.5.2',
+    author='John Reese, Vincenzo La Spesa',
+    author_email='john@noswap.com, vincenzolaspesa@gmail.com',
+    url='https://github.com/VincenzoLaSpesa/markdown-pp',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
